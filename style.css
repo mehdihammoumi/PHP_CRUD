@@ -1,0 +1,86 @@
+.main-nav{
+
+}
+.btn-primary {
+    color: #fff;
+    background-color: #4130ced4;
+    border-color: #423ca7;
+    border-radius: 30px;
+}
+.main-section {
+    margin-top: 40px;
+}
+.main-button {
+    padding: 150px;
+}
+.navbar-light .navbar-brand {
+    color: rgba(89, 23, 175, 0.9);
+    font-size: x-large;
+    font-weight: 700;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(59, 20, 216);
+    font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link a:hover{
+    color: rgb(59, 20, 216);
+}
+.form-container {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #000;
+    margin-top: 30px;
+    /* margin-right: 15px; */
+}
+.add-student {
+    background: #00000085 url(images/4.jpg);
+    background-blend-mode: color;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:660px;
+}
+
+.heading-part h1 {
+    color: #fff;
+    font-size: 35px;
+    margin-top: 200px;
+}
+.heading-part p {
+    color: #fff;
+    font-size: 19px;
+}
+.reg-btn {
+    border-radius: 7px;
+    padding-right: 15px;
+    padding-left: 15px;
+    font-size: initial;
+}
+.update-std{
+    background: #00000085 url(images/5.jpg);
+    background-blend-mode: color;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height:660px;
+}
+.main-table {
+    background: #000000b8 url(images/6.jpg);
+    background-blend-mode: color;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 660px;
+}
+.pro-table {
+    margin-top: 100px;
+}
+.pro-btn {
+    margin-left: 120px;
+    background-color: crimson;
+    color: #fff;
+    font-size: unset;
+    font-weight: 500;
+    border-radius: 30px;
+}
